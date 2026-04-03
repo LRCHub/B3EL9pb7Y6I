@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "薄っぺらい愛を込めて",
+  "base_artist": "シンガーズハイ",
+  "createdAt": "2026-04-03T06:12:55.673604Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "薄っぺらい愛を込めて",
+      "artist": "シンガーズハイ",
+      "has_synced": false,
+      "path": "select/pl_01_薄っぺらい愛を込めて_シンガーズハイ.txt"
+    }
+  ]
+}
